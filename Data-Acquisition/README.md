@@ -1,0 +1,2 @@
+Data Acquisition builds proficiency in Structured Query Language (SQL) and the initial stages of the data analytics lifecycle. 
+The course introduces relational databases. Students gain concrete skills in data transference and database manipulation. 
