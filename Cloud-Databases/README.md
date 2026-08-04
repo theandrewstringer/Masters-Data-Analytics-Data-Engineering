@@ -1,0 +1,1 @@
+The course covers the application of cloud architectures to large-scale data systems, comparing cloud-native approaches to smaller-scale systems, and applying cloud computing concepts to business scenarios.
