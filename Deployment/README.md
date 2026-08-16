@@ -1,2 +1,5 @@
-Here the learner focuses on the practical aspects of deploying data analytics solutions, including analyzing business cases for MLOps, designing and implementing data production pipelines, and deploying APIs.
-It requires learners to write code, manage it in version control, and present their technical solutions effectively.
+<strong> **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
+# WESTERN GOVERNORS UNIVERSITY 
+## D602 – TASK 2
+Welcome to Task 2! 
+For specific task instructions and requirements for this assessment, please refer to the course page.

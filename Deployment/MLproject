@@ -1,0 +1,18 @@
+# MLproject
+
+name: flight_delay_project
+
+conda_env: pipeline_env.yaml
+
+entry_points:
+  import_and_format:
+    command: 'python import_and_format_complete.py'
+
+  cleaning_data:
+    command: 'python cleaning_data_complete.py'
+
+  poly_regressor:
+    command: 'python poly_regressor_Python_1.0.0.py'
+
+  main:
+    command: 'python main.py'
